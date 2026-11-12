@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98925681619",
+    "project_id": "kanban-mobile-52691",
+    "storage_bucket": "kanban-mobile-52691.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98925681619:android:b80e85b300c4cd383aed26",
+        "android_client_info": {
+          "package_name": "com.julias.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVEw2nOafz-ImN1abKdqs8G_8BdZ2r0tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
